@@ -1,0 +1,28 @@
+#countriesContainer {
+    background: linear-gradient(to right, #F0F4C3, black);
+}
+
+.card-title {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: HP Simplified;
+}
+
+.card {
+    background: linear-gradient(to right, #F0F4C3, black);
+}
+
+p {
+    font-family: HP Simplified;
+    text-align: center;
+    color: white;
+}
+
+a {
+    border: 2px solid grey;
+    margin-left: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
